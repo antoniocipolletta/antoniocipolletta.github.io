@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Antonio Cipolletta"
-  avatar           : "profile_github.jpg"
+  avatar           : "profile.jpg"
   bio              : "I co-design compilers/low-level software/hardware to make DNNs run faster and more efficient on embedded platforms."
   location         : "Torino, Italy"
   employer         :
